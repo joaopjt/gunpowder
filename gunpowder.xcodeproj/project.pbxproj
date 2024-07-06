@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		62FE6CD12C37779E007E9591 /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		62FE6CD22C377C2A007E9591 /* list.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = list.json; sourceTree = "<group>"; };
+		62FE6CD32C387BFB007E9591 /* list-reverse.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "list-reverse.json"; sourceTree = "<group>"; };
+		62FE6CD42C38D243007E9591 /* bubblegum.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = bubblegum.json; sourceTree = "<group>"; };
+		62FE6CD52C39C0E5007E9591 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		62FE6CCA2C37775C007E9591 = {
+			isa = PBXGroup;
+			children = (
+				62FE6CD52C39C0E5007E9591 /* LICENSE */,
+				62FE6CD42C38D243007E9591 /* bubblegum.json */,
+				62FE6CD22C377C2A007E9591 /* list.json */,
+				62FE6CD32C387BFB007E9591 /* list-reverse.json */,
+				62FE6CD12C37779E007E9591 /* index.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		62FE6CCB2C37775C007E9591 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1520;
+			};
+			buildConfigurationList = 62FE6CCE2C37775C007E9591 /* Build configuration list for PBXProject "gunpowder" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 62FE6CCA2C37775C007E9591;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		62FE6CCF2C37775C007E9591 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		62FE6CD02C37775C007E9591 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		62FE6CCE2C37775C007E9591 /* Build configuration list for PBXProject "gunpowder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62FE6CCF2C37775C007E9591 /* Debug */,
+				62FE6CD02C37775C007E9591 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 62FE6CCB2C37775C007E9591 /* Project object */;
+}
