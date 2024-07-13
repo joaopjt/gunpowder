@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		62495D212C4332730000B887 /* gunpowder.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gunpowder.json; sourceTree = "<group>"; };
 		62FE6CD12C37779E007E9591 /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
 		62FE6CD22C377C2A007E9591 /* list.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = list.json; sourceTree = "<group>"; };
 		62FE6CD32C387BFB007E9591 /* list-reverse.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "list-reverse.json"; sourceTree = "<group>"; };
-		62FE6CD42C38D243007E9591 /* bubblegum.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = bubblegum.json; sourceTree = "<group>"; };
 		62FE6CD52C39C0E5007E9591 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -19,7 +19,7 @@
 			isa = PBXGroup;
 			children = (
 				62FE6CD52C39C0E5007E9591 /* LICENSE */,
-				62FE6CD42C38D243007E9591 /* bubblegum.json */,
+				62495D212C4332730000B887 /* gunpowder.json */,
 				62FE6CD22C377C2A007E9591 /* list.json */,
 				62FE6CD32C387BFB007E9591 /* list-reverse.json */,
 				62FE6CD12C37779E007E9591 /* index.js */,
