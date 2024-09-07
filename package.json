@@ -1,0 +1,23 @@
+{
+  "name": "gunpowder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopjt/gunpowder.git"
+  },
+  "keywords": [
+    "gunpowder",
+    "powder"
+  ],
+  "author": "João Julio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopjt/gunpowder/issues"
+  },
+  "homepage": "https://github.com/joaopjt/gunpowder#readme"
+}
